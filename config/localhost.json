@@ -1,0 +1,10 @@
+{
+    "SERVER_PORT":6000,
+    "DB_PORT":5432,
+    "DB_USER":"postgres",
+    "DB_HOST":"localhost",
+    "DB_PASSWORD":"akki5101",
+    "DB_NAME":"BookMyShow",
+    "SECRET_KEY":"Akshat",
+    "Jwt_EXPIRATION_HOUR":24
+}
